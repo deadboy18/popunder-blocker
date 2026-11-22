@@ -1,6 +1,10 @@
 # Popunder Blocker - 1shows, 1flex, 1tube
 
-A Tampermonkey/Violentmonkey userscript that blocks popunder and clickunder ads on streaming sites **1shows.org**, **1flex.org**, and **1tube.org**.
+[![Install with Tampermonkey](https://img.shields.io/badge/Install%20Script-Tampermonkey-00485b?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/popunder-blocker.user.js) [![Install with Violentmonkey](https://img.shields.io/badge/Install%20Script-Violentmonkey-670000?style=for-the-badge)](https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/popunder-blocker.user.js)
+
+> Click the button above to install. Requires [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/). Updates are pushed automatically.
+
+A userscript that blocks popunder and clickunder ads on streaming sites **1shows.org**, **1flex.org**, and **1tube.org**.
 
 ## The Problem
 
