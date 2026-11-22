@@ -1,13 +1,10 @@
 // ==UserScript==
 // @name         Popunder Blocker - 1shows, 1flex, 1tube
 // @namespace    https://github.com/deadboy18/popunder-blocker
-// @version      1.2
+// @version      1.3
 // @description  Blocks popunder/clickunder ads on 1shows.org, 1flex.org, 1tube.org and their embedded video players
 // @author       deadboy18
-// @match        *://*.1shows.org/*
-// @match        *://*.1flex.org/*
-// @match        *://*.1tube.org/*
-// @match        *://*.vidy.st/*
+// @match        *://*/*
 // @run-at       document-start
 // @grant        none
 // @license      MIT
