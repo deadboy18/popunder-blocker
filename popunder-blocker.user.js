@@ -10,6 +10,8 @@
 // @run-at       document-start
 // @grant        none
 // @license      MIT
+// @updateURL    https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/popunder-blocker.user.js
+// @downloadURL  https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/popunder-blocker.user.js
 // @homepageURL  https://github.com/deadboy18/popunder-blocker
 // @supportURL   https://github.com/deadboy18/popunder-blocker/issues
 // ==/UserScript==
