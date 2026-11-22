@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Popunder Blocker - 1shows, 1flex, 1tube
 // @namespace    https://github.com/deadboy18/popunder-blocker
-// @version      1.0
+// @version      1.1
 // @description  Blocks popunder/clickunder ads on 1shows.org, 1flex.org, and 1tube.org by removing ad scripts and intercepting window.open calls
 // @author       deadboy18
 // @match        *://*.1shows.org/*
@@ -10,6 +10,7 @@
 // @run-at       document-start
 // @grant        none
 // @license      MIT
+// @icon         https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/icon.png
 // @updateURL    https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/popunder-blocker.user.js
 // @downloadURL  https://raw.githubusercontent.com/deadboy18/popunder-blocker/main/popunder-blocker.user.js
 // @homepageURL  https://github.com/deadboy18/popunder-blocker
